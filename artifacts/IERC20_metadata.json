@@ -196,7 +196,7 @@
 					"details": "Emitted when the allowance of a `spender` for an `owner` is set by a call to {approve}. `value` is the new allowance."
 				},
 				"Transfer(address,address,uint256)": {
-					"details": "Emitted when `value` tokens are moved from one account (`from`) to another (`to`). Note that `value` may be zero."
+					"details": "Emitted when `value` tokens are moved from one account (`from`) to another (`to`). 和老挝 Note that `value` may be zero."
 				}
 			},
 			"kind": "dev",
@@ -245,11 +245,11 @@
 	},
 	"sources": {
 		"contracts/token/ERC20/IERC20.sol": {
-			"keccak256": "0xa2d847c6ad19f5b8ac7c6f4c462bb4c1fd76307cb17478c49743354cf122f77f",
+			"keccak256": "0x9d0fba4272323849566019e3f7ea338b59cc0418b9fa7d6f1a2dc3311dd0a3e7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bcb88894b8d6c2967694114eceba85a4dd40d7adea390e20e766657cb6d5d4be",
-				"dweb:/ipfs/QmQQVNAzL8PnhUCYzSvSoiEzuqNtEroBmyBgqCJ9hbKJ5B"
+				"bzz-raw://adadc41071d8248a7fe4341c1b882035e0230b866c6665ddc23d46f4856328e0",
+				"dweb:/ipfs/QmW8uYp8zhKRPn4x6W3BzrEQpmzNp63itSu8mEhrtJm2Fj"
 			]
 		}
 	},
