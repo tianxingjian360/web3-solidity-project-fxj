@@ -12,7 +12,6 @@ interface IERC20 {
     /**
      * @dev Emitted when `value` tokens are moved from one account (`from`) to
      * another (`to`).
-     * 和老挝
      * Note that `value` may be zero.
      */
     event Transfer(address indexed from, address indexed to, uint256 value);
